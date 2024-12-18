@@ -25,5 +25,4 @@
 - **Backend**: Node.js, NestJS
 - **Database**: PostgreSQL / Mysql
 - **Styling**: CSS
-
 </div>
